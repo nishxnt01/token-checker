@@ -1,0 +1,6 @@
+# Example File for Storing Discord Tokens
+
+# Add your tokens below:
+
+# token1 = xxxxxxxxxxx
+# token2 = xxxxxxxxxxx
